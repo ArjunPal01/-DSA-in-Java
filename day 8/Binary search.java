@@ -31,4 +31,8 @@ public class Array_Binary {
         }
        
     }
+
 }
+
+//time complexicity = logn with base 2
+//linar search se kam TC hai iski..

@@ -1,18 +1,18 @@
 📘 Topics Covered: Strings__
 
-🔹 Basics of Strings__
-🔹 String Concatenate __ 
-🔹 String charAt() Method__  
-🔹 String Comparison__
-🔹 Substring__
-🔹 String Compression __ 
-🔹 StringBuilder  __
+🔹 Basics of Strings--
+🔹 String Concatenate--
+🔹 String charAt() Method--  
+🔹 String Comparison--
+🔹 Substring--
+🔹 String Compression--
+🔹 StringBuilder--
 
 ---
 
-🧠 Questions Practice__
+🧠 Questions Practice--
 
-1️⃣ Check if a String is a Palindrome __ 
-2️⃣ Shortest Path__  
-3️⃣ Print Largest String __ 
-4️⃣ Convert Letters to Uppercase__
+1️⃣ Check if a String is a Palindrome--
+2️⃣ Shortest Path--
+3️⃣ Print Largest String--
+4️⃣ Convert Letters to Uppercase--

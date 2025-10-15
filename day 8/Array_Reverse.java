@@ -29,6 +29,8 @@ public class Array_Reverse {
 
 }
 
-//thid is optimised way 
+//this is optimised solution buddy..
+//another method is also..reveres loop chala do.. but usme space complexicity jyada ho jayegi..
 //space complexicity constant o(1)
 //time complexicity 0(n/2)
+

@@ -26,4 +26,9 @@ public class Array_Reverse {
         }
         System.out.println();
     }
+
 }
+
+//thid is optimised way 
+//space complexicity constant o(1)
+//time complexicity 0(n/2)

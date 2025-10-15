@@ -36,3 +36,11 @@ public class Array_Binary {
 
 //time complexicity = logn with base 2
 //linar search se kam TC hai iski..
+//For an array of size n = 16,
+//Step 1: check 8 elements → 8 left
+//Step 2: check 4 → 4 left
+//Step 3: check 2 → 2 left
+//Step 4: check 1 → done
+//Only 4 comparisons = log₂(16) so time complexicity is 4
+//so this is optimal condition
+

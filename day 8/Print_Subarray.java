@@ -23,4 +23,9 @@ public class Print_Subarray {
         printSubarrays(numbers);
 
     }
+
 }
+//concept use : nested loop
+//yaha pat 3 loops banenge
+//same as pair, waha par ham first and last ko lekar pairing
+// and yaha first and last wale element ko lo and unke bich ke saare elements ko print krwa do,,iske liye loop 3 use ho rha h...

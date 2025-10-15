@@ -20,6 +20,7 @@ public class Largest_In_Array {
     }
 }
 
-//my mistake: -infinity ka syntax galat kr diya tha buddy
+//my mistake: -infinity ka syntax galat likha tha buddy
 //Integer.MIN.VALUE → wrong
+
 //Integer.MIN_VALUE → correct

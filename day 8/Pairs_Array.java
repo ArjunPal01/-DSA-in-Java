@@ -21,4 +21,7 @@ public class Pairs_Array {
         printpairs(numbers);
 
     }
+
 }
+
+//(1,2) and (2,1) both are same pairs buddy..

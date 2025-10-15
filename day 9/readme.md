@@ -3,6 +3,6 @@ Topics covered:   Basics of Array::
 🔹Prefix sum  
 🔹Kadane's algorithm   
   
-And learn concep to solve questions...    
+learn concept to solve questions...    
 1️⃣ Trapping rainwater    
 2️⃣Best time to buy and sell stock  

@@ -1,5 +1,5 @@
 Topics covered:   Basics of Array::  
-🔹 Brute force  
+🔹Brute force  
 🔹Prefix sum  
 🔹Kadane's algorithm   
   

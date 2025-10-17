@@ -1,10 +1,10 @@
 class Max_Subarray_Sum {
     public static int MaxSubarraySum(int nums[]) {
-        
-        int maxSum = Integer.MIN_VALUE;
+        int currSum = 0;
+        int maxSum = Integer.MIN_VALUE; //-infinity
         for(int i=0; i<nums.length; i++) {
             for(int j=i; j<nums.length; j++) {
-                int currSum = 0;
+                currSum = 0;
                 for(int k=i; k<=j; k++) {
                     currSum = currSum + nums[k];
                 }
@@ -30,3 +30,4 @@ class Max_Subarray_Sum {
 }
 
 //TC (n^3)...this is not optimised way buddy
+

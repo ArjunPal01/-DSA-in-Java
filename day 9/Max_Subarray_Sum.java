@@ -1,3 +1,4 @@
+//brute force
 class Max_Subarray_Sum {
     public static int MaxSubarraySum(int nums[]) {
         int currSum = 0;
@@ -30,4 +31,5 @@ class Max_Subarray_Sum {
 }
 
 //TC (n^3)...this is not optimised way buddy
+
 

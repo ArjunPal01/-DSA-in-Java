@@ -20,4 +20,8 @@ class Kadane_Algo {
         int number[] = {-2, -3, 4, -1, -2, 1, 5, -3};
         KadaneAlgo(number);
     }
-}
+
+}//output : 7
+//this is optimised method buddy to find sum of subarray
+//TC less and also it takes less space in memory so SC is less...
+//only one loop and 2 variable buddy...so optimised method..

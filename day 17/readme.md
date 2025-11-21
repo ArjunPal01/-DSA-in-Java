@@ -1,1 +1,1 @@
-merge sort and merge sort
+quick sort and merge sort
